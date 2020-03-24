@@ -44,7 +44,7 @@ btnmanson.onclick = (evt) => {
         mark.remove();
     }
 
-    jsonfil = "https://gloer.github.io/serial/json/manson.json";
+    jsonfil = "https://jonmagneaaj.github.io/Tema5-API-Innlevering/json/manson.json";
     lesMap();
 }
 btnmiyazaki.onclick = (evt) => {
@@ -54,7 +54,7 @@ btnmiyazaki.onclick = (evt) => {
         mark.remove();
     }
 
-    jsonfil = "https://gloer.github.io/serial/json/miyazaki.json";
+    jsonfil = "https://jonmagneaaj.github.io/Tema5-API-Innlevering/json/miyazaki.json";
     lesMap();
 }
 btnramirez.onclick = (evt) => {
@@ -64,12 +64,12 @@ btnramirez.onclick = (evt) => {
         mark.remove();
     }
 
-    jsonfil = "./json/ramirez.json";
+    jsonfil = "https://jonmagneaaj.github.io/Tema5-API-Innlevering/json/ramirez.json";
     lesMap();
 }
 
 // Default json file
-let jsonfil = "https://gloer.github.io/serial/json/ted.json";
+let jsonfil = "https://jonmagneaaj.github.io/Tema5-API-Innlevering/json/ted.json";
 
 //JSON info
 const lesMap = async () => {
