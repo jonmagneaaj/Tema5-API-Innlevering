@@ -1,0 +1,81 @@
+{
+  "name": "Tsutomu Miyazaki",
+  "center":[139.753877, 35.682451],
+  "zoom": 9,
+  "text1" : "<p>Tsutomu Miyazaki (August 21, 1962 – June 17, 2008), also known as the Otaku Murderer or the Little Girl Murderer, was a Japanese serial killer, cannibal, child rapist and necrophile who abducted and murdered four young girls—and sexually molested their corpses—in the Saitama and Tokyo prefectures between August 1988 and June 1989. His crimes included not only kidnapping, murder, and necrophilia, but also vampirism and the preservation of body parts as trophies.</p>",
+  "text2": "<p>He attended Meidai Nakano High School in Nakano, Tokyo, and was a star student until his grades dropped dramatically. He was ranked 40 out of 56 in his class, and did not receive the customary admission to Meiji University. Instead of studying English and becoming a teacher as he originally intended, he attended a local junior college and studied to become a photo technician. Miyazaki was rejected by his two younger sisters, and felt he only received support from his grandfather. In May 1988, his grandfather died. This served to deepen his depression and isolated him even further. In an attempt to retain something from him, Miyazaki ate part of his grandfather's ashes. A few weeks later, one of his sisters caught him watching her while she was taking a shower. When she told him to leave, Miyazaki attacked her. When his mother learned of the incident and demanded that he spend more time working, and less time with his videos, he attacked her as well.</p>",
+  "text3": "<p>The trial began on March 30, 1990. Often talking nonsensically, Miyazaki blamed his actions on Rat Man, an alter ego who Miyazaki claimed forced him to kill; he spent time during the trial drawing Rat Man in cartoon form. Miyazaki's father refused to pay for his son's legal defense and committed suicide in 1994. The seven-year trial focused on Miyazaki's mental state at the time of the murders. Under Japanese law, people of unsound minds are not subject to punishment, and the feeble-minded are entitled to reduced sentences. Three teams of court-appointed expert psychiatrists came to differing conclusions about Miyazaki's ability to tell right from wrong. Two teams determined him to be feeble-minded—one team concluding that he was schizophrenic, the other that he had multiple personality disorder. A third team found that although Miyazaki had a personality disorder, he was still capable of taking responsibility for his actions. The Tokyo District Court judged him aware of the magnitude and consequences of his crimes and therefore accountable. He was sentenced to death on April 14, 1997. His death sentence was upheld by both the Tokyo High Court, on June 28, 2001, and the Supreme Court of Justice on January 17, 2006 </p>",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mari Konno",
+          "age": 4,
+          "img" : "https://gracekinirons.com/wp-content/uploads/2018/02/Mari-Konno.jpg",
+          "when": "1988-08-28",
+          "weapon": "strangled",
+          "how": "<p>Mari Konno (今野真理 Konno Mari), was four years old when she went missing August 28 1988.  Miyazaki had led her to his car and driven to the outskirts of Tokyo, where he strangled her, had sex with her corpse and left her naked, taking the clothes home with him.  He took photographs of every stage of the abduction.</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            139.898252, 35.714362
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Masami Yoshizawa",
+          "age": 7,
+          "img" : "https://em.wattpad.com/1c2d4d7ff726fc797c2fe909934a574141f195ce/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f6f4d334d6c4d7a645535394f4a513d3d2d3235362e313563306237626663316631356163373238323932303533373534312e6a7067?s=fit&w=720&h=720",
+          "when": "1988-09-03",
+          "weapon": "strangled",
+          "how": "<p>Picked up walking along the road in Hanno Saitama prefecture she got into Miyazaki’s car and was never seen again. Strangled in the exact same place as Mari Konno, her corpse was sexually abused and left just yards from his previous victim</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            139.896224, 35.714754
+
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Erika Namba",
+            "age": 4,
+            "img" : "http://psicokillers.com/wp-content/uploads/2018/08/Tsutomu-Miyazaki-asesino-otaku-Erika-Namba-208x300.png",
+            "when": "1988-12-12",
+            "weapon": "strangled",
+            "how": "<p>Abducted by Miyazaki, he forced her to strip in the back of his car whilst he took pictures, before he strangled her.  Tied up and covered by a sheet he placed her body in the back of his car.  Whilst driving to presumably the same location he had chosen as the site to dump the little girl’s bodies his car became stuck after a wheel slipped off the edge of the road.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            139.227933, 35.740483
+
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Ayako Namato",
+            "age": 5,
+            "img" : "https://em.wattpad.com/b1c0dfddf13dc0e44d67ab8a1e08e0b720d4dfee/68747470733a2f2f73332e616d617a6f6e6177732e636f6d2f776174747061642d6d656469612d736572766963652f53746f7279496d6167652f4d44643537327a675965356b2d673d3d2d3235362e313563306237623763333865393739623134373439303834333634382e6a7067?s=fit&w=720&h=720",
+            "when": "1988-6-06",
+            "weapon": "strangled",
+            "how": "<p> Ayako was playing alone in the park. Approaching the young girl and quickly befriending her, Miyazaki convinced her to come to his car for more pictures.  Not long after, Miyazaki strangled Ayako tied her up and put her under a sheet in the trunk of his car. What differed from his previous victims is that he took Ayako home with him; posing her nude, he took photos while masturbating. </p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            139.676434, 35.630357
+          ]
+        }
+      }
+    ]
+  }

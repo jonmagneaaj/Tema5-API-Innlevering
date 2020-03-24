@@ -1,0 +1,551 @@
+{ 
+  "name": "Ted Bundy",
+  "center":[-101.301848, 39.219377],
+  "zoom": 3.2,
+  "text1" : "<p>Theodore Robert Bundy (born Theodore Robert Cowell; November 24, 1946 – January 24, 1989) was an American serial killer who kidnapped, raped, and murdered numerous young women and girls during the 1970s and possibly earlier. After more than a decade of denials, before his execution in 1989 he confessed to 30 homicides that he committed in seven states between 1974 and 1978. The true number of victims is unknown and possibly higher.</p> <p>Biographer Ann Rule, who had previously worked with Bundy, described him as a sadistic sociopath who took pleasure from another human's pain and the control he had over his victims, to the point of death, and even after. He once called himself the most cold-hearted son of a bitch you'll ever meet. Attorney Polly Nelson, a member of his last defense team, wrote he was the very definition of heartless evil.</p>",
+  "text2": "<p>In the fall of 1974, Bundy moved to Utah to attend law school, and women began disappearing there as well. The following year, he was pulled over by the police. A search of his vehicle uncovered a cache of burglary tools—a crowbar, a face mask, rope and handcuffs. He was arrested for possession of these tools and the police began to link him to much more sinister crimes.</p> <p>In 1975, Bundy was arrested in the kidnapping of Carol DaRonch, one of the few women to escape his clutches. He was convicted and received a one-to-15-year jail sentence.</p><p>Bundy escaped from prison twice in 1977. The first time, he was indicted on murder charges for the death of a young Colorado woman and decided to act as his own lawyer in the case. During a trip to the courthouse library, he jumped out a window and made his first escape. He was captured eight days later.</p><p>In December, Bundy escaped from custody again. He climbed out of a hole he made in the ceiling of his cell, having dropped more than 30 pounds to fit through the small opening. Authorities did not discover that Bundy was missing for 15 hours, giving the serial killer a big head start on the police.</p><p>After Bundy's second escape from prison, he eventually made his way to Tallahassee, Florida. On the night of January 14, 1978, Bundy broke into the Chi Omega sorority house at Florida State University. He attacked four of the young female residents, killing two of them. On February 9, Bundy kidnapped and murdered a 12-year-old girl named Kimberly Leach. </p><p>These crimes marked the end of his murderous rampage, as he was soon pulled over by the police that February.</p>",
+  "text3": "<p>Bundy died in the Raiford electric chair at 7:16 a.m. EST on January 24, 1989; he was 42 years old. Hundreds of revelers—including 20 off-duty police officers, by one account—sang, danced and set off fireworks in a pasture across the street from the prison as the execution was carried out, then cheered loudly as the white hearse containing his corpse departed the prison. His body was cremated in Gainesville and his ashes scattered at an undisclosed location in the Cascade Range of Washington State, in accordance with his will.</p>",
+  "type": "FeatureCollection",
+  "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Anne Marie Burr",
+          "age": 8,
+          "img": "https://murderpedia.org/male.B/images/b/bundy/victims/anne_marie_burr.jpg",
+          "when": "1962-07-13",
+          "weapon": "blunt weapon",
+          "how": "<p>Anne Marie lived only 10 blocks from 15 yr old Ted Bundy, the local paperboy, and followed him around like a puppy. She awoke one night to tell her parents her little sister was sick, then the small blonde girl presumably returned to bed. But the next morning, she was nowhere to be found, and a window facing the front street was wide open. The child was in her nightgown when she vanished. Despite a huge effort on the Tacoma police's part, the little girl was never found.</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.309799,
+            47.618498
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Susan Elaine Rancourt",
+          "age": 19,
+          "img": "https://murderpedia.org/male.B/images/b/bundy/victims/susan_rancourt.jpg",
+          "when": "1974-04-17",
+          "weapon": "blunt weapon",
+          "how": "<p>It was mid-term finals and she'd learned of a new job opening for dorm advisors. Always looking for a chance to make more money to support herself, and being preoccupied with finals, she took a rare chance--one that cost her very life. At 8 pm she took a load of clothes to the campus laundry, then walked to the advisor's meeting by herself. It was dark, but the campus was hopping with students. The meeting ended at 9, and she planned to meet a friend to see a German film. The friend finally went alone when Susan never showed. Susan was last seen leaving the advisors meeting.</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.536542,
+            47.008734
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Brenda Carol Bal",
+            "age": 22,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/brenda_ball.jpg",
+            "when": "1974-05-31",
+            "weapon": "blunt weapon",
+            "how": "<p>She told friends that day, she would see about getting a ride to Sun Lakes, on the eastern side of the state, to meet them there later. She stayed at the tavern till 2 am, then asked a musician for a ride, but he was going the other way. She was seen last in the parking lot, talking to a man with his arm in a sling. Because she was such a free spirit, her friends thought nothing of her absence, and didn't become suspicious until almost 19 days after she was last seen. March 1 of 1975, college students working on Taylor Mt, discovered the first of several skulls on that mountain, and it proved to be that of Brenda Ball </p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.279423,
+            44.563337
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Caryn Campbell",
+            "age": 23,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/caryn_campbell.jpg",
+            "when": "1976-01-12",
+            "weapon": "blunt weapon",
+            "how": "<p>Caryn and her fiancee had a late dinner with some friends, then returned to the inn where they were staying. They settled in the lounge, and Caryn remembered a magazine she'd left in their room, and went to retrieve it. After she had been gone a while, her fiancee went to find her. She wasn't in the room, she wasn't anywhere to be found. He searched frantically for her and soon brought the police into it. She'd simply vanished into thin air. He had to pack and fly home with his children, but kept waiting for a call from Caryn, explaining why she'd walked away from them. She never called. On February 18th, she was found in a snowbank off of Owl Creek Rd, not far from the inn where she had been vacationing. She lay in the bloodstained snowbank nude, battered and cut. It was highly likely that she was raped </p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -113.48876953125,
+            44.762336674810996
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Denise Lynn Oliverson",
+            "age": 23,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/denise_oliverson.jpg",
+            "when": "1975-04-06",
+            "weapon": "unknown",
+            "how": "<p>The pretty dark haired woman had argued badly with her husband before she peddled off on her bike to visit her parents. Her parents hadn't expected her, and when she didn't return that night, her husband assumed she was still angry with him and had stayed at their house.He decided to giver her some time to cool off, and the next day, when he called their house, was alarmed to learn she had never arrived there. Police searched the route she had mostly likely taken, and found her bike and her sandals under a viaduct near a railroad bridge</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -108.550209,
+            39.075712
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Nancy Wilcox",
+            "age": 16,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/nancy_wilcox.jpg",
+            "when": "1974-08-02",
+            "weapon": "unknown",
+            "how": "<p>Nancy Wilcox disappeared from Holladay, near Salt Lake City, Utah on October 2, 1974. Wilcox was last seen riding in a VW bug similar to Ted Bundy's and was likely Bundy's first victim in Utah</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.822906, 40.65356
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Lonnie Trummbell",
+            "age": 10,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1966-06-23",
+            "weapon": "unknown",
+            "how": "<p>Unknown</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.302246, 47.608314
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Lisa Wick",
+            "age": 17,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1966-06-23",
+            "weapon": "unknown",
+            "how": "<p>She saw her boyfriend late that afternoon, then talked to him around 10 pm that evening. She and Lisa were going to sleep and she told the man goodnight. The next morning, Lonnie and Lisa's third roommate, another stewardess, returned home at 9:30 am and found the door unlocked, which was very odd. She walked into their room and thought them to be asleep, but no one responded when she spoke to them. She turned on the light and was horrified by what she saw. Both girls had been savagely bludgeoned. Lonnie Trumbell did not survive the attack, but Lisa did, possibly because of the soft rollers she'd gone to bed wearing. She lingered in a coma for some time. She remembered nothing. A blood-covered piece of wood was found in a nearby vacant lot.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.396876, 47.650276
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Joni Lenz",
+            "age": 18,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1974-02-04",
+            "weapon": "blunt weapon",
+            "how": "<p>Joni had gone to sleep in her basement room of a big house which several young people rented together. The next afternoon, after she hadn't appeared all morning, her housemates went to check on her and found her lying in her bed, her hair and face matted with dried blood. She'd been beaten with a metal rod broken from the bed frame, and when they pulled the covers back, they were horrified to find the rod had been brutally jammed into her vagina. The incredible thing is, this poor girl lived through the attack. It left irreparable damage to her internal organs, and she never regained memory of the attack. It also left her severely brain damaged. She was a shy, friendly girl with no enemies, and it was determined to be a random act of savage violence.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -120.169509, 47.176486
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Lynda Ann Healy",
+            "age": 21,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/linda_healy.gif",
+            "when": "1974-01-31",
+            "weapon": "blunt weapon",
+            "how": "<p>Her parents showed up for the dinner she never made, and they knew then, how serious it was. They called the police. Upon investigation, the police pulled back her bedcovers and found a heavily blood stained pillowcase and blood-soaked sheets. Her nightgown was found stuffed in her closet, the neck line crusted with dried blood. The clothes she'd worn that day were missing. Not one trace of the attacker or her body could be found. A year later, during a thorough investigation of what came to be known as Bundy's graveyard, Lynda's skull was found, bearing the unmistakable marks of vicious battering. Bundy confessed to her murder before his execution.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.140958, 47.441578
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Donna Gail Manson",
+            "age": 19,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/donna_manson.jpg",
+            "when": "1974-03-12",
+            "weapon": "blunt weapon",
+            "how": "<p>She stayed out late often and asked her roommate to cover for her in class while she slept in. In March of 74, she was very depressed. She wasn't reported missing for 6 days because of her habit of taking off on whims. March 12, she'd left her room around 7 pm to walk to a campus jazz concert. She was never seen alive again. Bundy confessed to her murder before his execution and said her remains were part of those unidentified bones found Mar 3, 1975 on Taylor Mountain, Wa</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.975829, 47.073117
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Brenda Baker",
+            "age": 15,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1974-05-25",
+            "weapon": "unknown",
+            "how": "<p>Her badly decomposed body was found in the park, and cause of death was impossible to determine. She'd run away from home, and no personal info is available at this point.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.913163, 46.915787
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Roberta Kathleen Parks",
+            "age": 20,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/roberta_parks.jpg",
+            "when": "1975-03-03",
+            "weapon": "unknown",
+            "how": "<p>May 4th she'd had an argument with her father on the phone, and her sister called from Spokane on May 6th to tell her their father had suffered a massive heart attack. Her sister called later with the good news that their father would recover. It's speculated that Kathy was feeling terrible guilt over the argument and the heart attack that followed. That night, she agreed to walk to another dorm hall to have coffee with friends. She never arrived. Her skull was excavated with the others on Taylor Mountain, so far away from her Oregon dorm. Bundy confessed to her murder before his execution.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.277446, 44.565504
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Georgeann Hawkins",
+            "age": 18,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/georgeann_hawkins.jpg",
+            "when": "1974-06-10",
+            "weapon": "strangled",
+            "how": "<p>She'd thought it was a few of the students horsing around as usual, and went back to sleep. Bundy confessed to her murder before his execution, and though he was foggy on the details, he remembered how trusting she was. He'd asked her for help carrying his briefcase to his car because of his fake cast, and she'd obliged. He knocked her out, stuffed her into the car and sped away. She came to before he killed her, and in her confused rambling, said she had thought he'd been sent to help her with her Spanish exam. He knocked her out again, then pulled over and strangled her. Before his execution he claimed that part of her remains were found Sept 6,1974 nearly 2 miles from Lake Sammamish State Park.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.304099, 47.655971
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Janice Ott",
+            "age": 23,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/janice_ott.jpg",
+            "when": "1974-07-14",
+            "weapon": "unknown",
+            "how": "<p>A newly wed of a year and a half, July 14th was a sad day for her. The job she'd worked so hard for had taken her away to Washington, leaving her husband behind in his own practice in Riverside Ca. She was missing him very much the day of her disappearance. She left a note for her roommate and told her she'd be home by 4, then biked to the park. Witnesses later said she got up to help a friendly man in a cast, and that was the last Janice Ott was ever seen alive. Workers discovered some of her remains in a wooded area where other victims had been dumped. Bundy confessed to her murder before his execution.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.064900, 47.559220
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Denise Naslund",
+            "age": 18,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/denise_naslund.jpg",
+            "when": "1974-07-14",
+            "weapon": "unknown",
+            "how": "<p>She and her boyfriend of 9 months had planned a picnic that day at the park with another couple. They roasted hot dogs, then the men fell asleep in the sun. Denise walked off to the bathrooms around 4:30 pm. She never returned. Her friends started to worry after a while, and searched for her. Denise had brought her dog and they hoped she was looking for the dog, but it turned up alone. Workers discovered some of her remains in a wooded area where other victims had been dumped {along with Janice Ott's remains} Bundy confessed to her murder before his execution.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.054886, 47.564188
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Julie Cunningham",
+            "age": 26,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1975-03-15",
+            "weapon": "unknown",
+            "how": "<p>The week she disappeared, she'd had the last heartbreak of her life. She'd thought this was the right one, and had gone to Sun Valley with him for a weekend, only to learn he'd had no interest in a long term relationship. She wanted marriage and kids, and she was in the wrong atmosphere for finding a lasting relationship. She returned to Vail, crying and depressed. On March 15th, she talked to her mother for the last time on the phone, then decided she needed a break, and left for the local tavern. She would have met her roommate there, but Julie Cunningham never arrived. Bundy confessed to her murder before his execution.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -106.374258, 39.641128
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Melanie Cooley",
+            "age": 18,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1975-06-15",
+            "weapon": "blunt weapon",
+            "how": "<p>Melanie could have been Debby Kent's twin sister, and had walked off from her small town high school that spring day, never to be seen alive again. County road workers found her body 20 miles away. She had been bludgeoned on the back of the head, her hands had been tied, and a dirty pillowcase was left twisted around her neck. No other information is available on the victim at this moment. Bundy confessed to her murder before his execution.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.508953, 39.965444
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Shelly Robertson",
+            "age": 24,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1975-07-01",
+            "weapon": "blunt weapon",
+            "how": "<p>She'd argued with her boyfriend prior to her disappearance, and no one knew exactly what she was feeling July 1. The summer passed without a word, and they realized with dread that the pretty 24 yr old had not gone away on her own. They learned she had been last seen by friends on June 30th, and on July 1, a policeman had noticed her at a gas station with a man in a beat up old truck. August 21, her nude body was found inside a mine by 2 mining students. Cause of death was impossible to determine because of decomposition. Bundy confessed to her murder before his execution.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -105.210837, 39.726953
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Melissa Smith",
+            "age": 17,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/melissa_smith.jpg",
+            "when": "1974-10-18",
+            "weapon": "blunt weapon",
+            "how": "<p>October 18th, Melissa had plans to attend a slumber party. She ended up walking to the local pizza parlor to console a friend who'd had a quarrel with her boyfriend. After this, she left to pick her overnight clothes up and go to the party. She never made it home, and she never made it to the party. The teenager who'd gone to comfort a friend in need, was found battered and nude 9 days later, far from the small town she'd grown up in. Her head had been severely beaten with perhaps a crowbar, and her body had been battered before death.She had been strangled, raped and sodomized. Bundy confessed to her murder before his execution.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.897044, 40.615771
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Laura Aime",
+            "age": 17,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/laura_aime.jpg",
+            "when": "1974-11-27",
+            "weapon": "blunt weapon",
+            "how": "<p>She had gone to a cafe on Halloween night and, bored with the activity there, left around midnight and headed to a park. She was found a month later on the bank of a river in the Wasatch Mountains. Her face was beaten beyond recognition and she was found nude. She had been strangled and apparently beaten with an iron crowbar or prybar. Like Melissa Smith, she had been sexually assaulted. She had been drinking just enough to be intoxicated, but not so much that she couldn't scream, run or fight back.Bundy confessed to her murder before his execution.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.852318, 40.412295
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Laura Aime",
+            "age": 17,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/debra_kent.jpg",
+            "when": "1975-11-08",
+            "weapon": "blunt weapon",
+            "how": "<p>She offered to pick up her brother while her parents stayed behind at the school, and hurried away to the parking lot around 10:30 pm. Several people who lived near the school later admitted to hearing 2 short, terrified screams between 10:30 and 11. They described them as coming from someone in mortal terror. They even walked outside and stared into the darkness, hoping to find the source. They saw nothing, and they reported nothing. Debby's brother waited at the rink while the crowds thinned at the high school, leaving her irritated parents waiting til midnight. Her body was never found. </p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.862272, 40.870276
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Nancy Baird",
+            "age": 23,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1975-07-04",
+            "weapon": "unknown",
+            "how": "<p>Disappeared from a gas station where she worked. Part of her regular routing of working at this sort of establishment is continual contact with customers who are usually strangers. Bundy, no doubt, was just another customer to her. Unfortunately for Baird, her workplace environment placed her medium-high risk for victimization.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.977436, 41.072277
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Sue Curtis",
+            "age": 15,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1975-06-28",
+            "weapon": "unknown",
+            "how": "<p>No details</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.997343, 41.080969
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Debbie Smith",
+            "age": 17,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1976-02-15",
+            "weapon": "unknown",
+            "how": "<p>No details</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -111.980637, 40.787512
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Roberta Parks",
+            "age": 20,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1974-05-06",
+            "weapon": "unknown",
+            "how": "<p>Failed to return from a late night stroll at Oregon State University at Corvallis.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.278755, 44.564869
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Rita Jolly",
+            "age": 17,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1974-06-15",
+            "weapon": "unknown",
+            "how": "<p>No details</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.646285, 45.384948
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Vicky Hollar",
+            "age": 24,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1974-07-15",
+            "weapon": "unknown",
+            "how": "<p>No details</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -123.111909, 44.044359
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Lisa Levy",
+            "age": 20,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/lisa_levy.jpg",
+            "when": "1978-01-14",
+            "weapon": "strangled",
+            "how": "<p>Lisa had worked all day and went to a popular campus disco at 10 pm with a sorority sister. She only stayed a half hour because she was tired from working all day, and went home to bed. Her roomate was gone for the weekend, so she was in the dorm alone. Lisa Levy apparently hadnt awakened to all the hysteria coming from the rooms when Karen and Kathy were found. She would never awaken again. An officer found her without a pulse, and began CPR and cardio pulmonary massage. She died before she reached the hospital. Her right nipple had been almost bitten off, her left collarbone was broken, and she had been strangled. A Clairol hairspray bottle had been jammed into her vagina. There was a double bitemark on her left buttock, which would help identify and send Ted Bundy to the electric chair.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.298328, 30.441554 
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Margaret Bowman",
+            "age": 21,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/margaret_bowman.jpg",
+            "when": "1978-01-14",
+            "weapon": "blunt weapon",
+            "how": "<p>She was found lying on her stomach in bed, her skull shattered as she slept. A nylon stocking had been pulled so tightly around her neck it was nearly broken. Her skull was so smashed that it was impossible to tell the injuries apart. The coroners opinion was, both girls were unconscious from the blows themselves</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -84.292238, 30.443476
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Kimberly Leach",
+            "age": 12,
+            "img" : "https://murderpedia.org/male.B/images/b/bundy/victims/kimberly_leach.jpg",
+            "when": "1978-02-09",
+            "weapon": "strangled",
+            "how": "<p>She hadnt come home. They contacted the authorities, who went on the typical run away theory, but her parents knew she was too happy about the Valentine election, and she had absolutely no reason to be upset enough to run off. After 8 weeks of heavy searching, the bare bones of the girl who'd been thrilled to become runner up in the Valentine court, were found in a pigpen. There was evidence of sexual assault, but no head trauma. It appeared that she had been strangled, but the decomposition made it difficult to tell.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -82.637635, 30.173119
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Lynette Culver",
+            "age": 13,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1975-05-15",
+            "weapon": "unknown",
+            "how": "<p>No details.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -112.439362, 42.879090
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Rita Curran",
+            "age": 24,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1971-06-19",
+            "weapon": "blunt weapon",
+            "how": "<p>Rita was a very pretty, shy woman with long dark hair. She taught second grade and worked summers as a chambermaid in a hotel. Rita spent most of her time working with deprived and handicapped children. The hotel was next door to the unwed mother's home where Ted Bundy was born. She'd lived at home until she turned 24, then moved into her own apartment with another girl. She was hoping to find a good man that summer, and wanted to marry and have children. The evening of her murder, she'd rehearsed with her barber shop quartet til 10 pm. Her roommate and a friend left her alone in the apartment around 11:30 pm, and when they returned, they talked a while, assuming Rita was in the bedroom asleep. When the roomate walked into the bedroom, she found the bludgeoned, nude body of the schoolteacher. Like many of Bundy's later victims, Rita Curran had been beaten, strangled and raped.</p>"},
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -73.214271, 44.485419
+          ]
+        }
+      }
+    ]
+  }

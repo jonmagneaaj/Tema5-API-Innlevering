@@ -1,0 +1,250 @@
+{
+  "name": "Richard Ramirez",
+  "center":[-119.787008, 36.114600],
+  "zoom": 5,
+  "text1" : "<p>Ricardo Leyva Muñoz Ramírez (February 29, 1960 – June 7, 2013), known as Richard Ramirez, was an American serial killer, rapist, and burglar. His highly publicized home invasion crime spree terrorized the residents of the greater Los Angeles area and later the residents of the San Francisco area from June 1984 until August 1985. Prior to his capture, Ramirez was dubbed the Night Stalker by the news media. He used a wide variety of weapons, including handguns, knives, a machete, a tire iron, and a hammer. Ramirez, who claimed to be a Satanist, never expressed any remorse for his crimes. The judge who upheld Ramirez's thirteen death sentences remarked that his deeds exhibited cruelty, callousness, and viciousness beyond any human understanding.  Ramirez died of complications from B-cell lymphoma while awaiting execution on California's death row.</p>",
+  "text2": "<p>The adolescent Ramirez began to meld his burgeoning sexual fantasies with violence, including forced bondage and rape. While still in school, he took a job at a local Holiday Inn, where he used his passkey to rob sleeping patrons. His employment ended abruptly after a hotel guest returned to his room to find Ramirez attempting to rape his wife. Although the husband beat Ramirez senseless at the scene, criminal charges were dropped when the couple, who lived out of state, declined to return to testify against him. Ramirez dropped out of Jefferson High School in the ninth grade.  At the age of 22, he moved to California, where he settled permanently</p>",
+  "text3": "<p>On August 30, 1985, Ramirez took a bus to Tucson, Arizona, to visit his brother, unaware that he had become the lead story in virtually every major newspaper and television news program across California. After failing to meet his brother, he returned to Los Angeles early on the morning of August 31. He walked past police officers, who were staking out the bus terminal in hopes of catching the killer should he attempt to flee on an outbound bus, to a convenience store in East Los Angeles. After noticing a group of elderly Mexican women fearfully identifying him as El Matador (or The Killer), Ramirez saw his face on the front pages on the newspaper rack and fled the store in a panic. After running across the Santa Ana Freeway, he attempted to carjack a woman but was chased away by bystanders, who pursued him. After hopping over several fences and attempting two more carjackings, he was eventually subdued by a group of residents, one of whom had struck him over the head with a metal bar in the pursuit. The group held Ramirez down and relentlessly beat him until the police arrived and took him into custody.</p>",
+    
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jennie Vincow",
+          "age": 79,
+          "img" : "https://i.pinimg.com/474x/26/67/3d/26673dc646508c69db0ed6b1d076fa8f.jpg",
+          "when": "1984-06-28",
+          "weapon": "Knife",
+          "how": "<p>Jennie Vincow was found brutally murdered in her apartment in Glassell Park, Los Angeles.She had been stabbed repeatedly while asleep in her bed, and her throat slashed so deeply that she was nearly decapitated. Ramirez's fingerprint was found on a mesh screen he removed to gain access through an open window</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.233624, 34.109429
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Maria Hermandes",
+          "age": 22,
+          "img" : "https://i.pinimg.com/564x/71/76/32/717632280122e41643b283e1c2b7246e.jpg",
+          "when": "1985-03-17",
+          "weapon": "gun",
+          "how": "<p>Ramirez attacked 22-year-old Maria Hernandez outside her home in Rosemead, California, shooting her in the face with a .22 caliber handgun after she pulled into her garage. She survived when the bullet ricocheted off the keys she held in her hands as she lifted them to protect herself.] Inside the house was her roommate, Dayle Yoshie Okazaki, 34, who heard the gunshot and ducked behind a counter when she saw Ramirez enter the kitchen. When she raised her head he shot her once in the forehead, killing her</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.082142, 34.066713
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Tsai-Lian",
+            "age": "30",
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1985-03-17",
+            "weapon": "gun",
+            "how": "<p>Within an hour of the Rosemead home invasion, Ramirez pulled 30-year-old Tsai-Lian Veronica Yu out of her car in Monterey Park, California, shot her twice with a .22 caliber handgun, and fled. She was pronounced dead upon arrival at the hospital. The two murders, and attempted third, in a single day attracted extensive coverage from news media, who dubbed the curly-haired attacker with bulging eyes and wide-spaced, rotting teeth The Walk-in Killer and The Valley Intruder.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.128027, 34.050078
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Vincent Yazzara",
+            "age": 64,
+            "img" : "https://images.findagrave.com/photos250/photos/2009/62/25075405_123616432565.jpg",
+            "when": "1985-03-27",
+            "weapon": "gun",
+            "how": "<p>On March 27, 1985, Ramirez entered a home that he had burglarized a year earlier in Whittier, California, at approximately 2 a.m. and killed the sleeping Vincent Charles Zazzara, age 64, with a gunshot to his head from a .22 caliber handgun</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.132926, 33.942573
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Maxine Zazzara",
+            "age": 44,
+            "img" : "https://images.findagrave.com/photos/2009/62/25075416_123616442959.jpg",
+            "when": "1985-03-27",
+            "weapon": "knife",
+            "how": "<p>Zazzara's wife Maxine Levenia Zazzara, age 44, was awakened by the gunshot, and Ramirez beat her and bound her hands while demanding to know where her valuables were. While he ransacked the room, Maxine escaped her bonds and retrieved a shotgun from under the bed, which was not loaded. The infuriated Ramirez shot her three times with the .22, then fetched a large carving knife from the kitchen.He mutilated her body by stabbing her several times, then gouged out her eyes and placed them in a jewelry box, which he left with.The autopsy determined that the mutilations were post-mortem. Ramirez left footprints from a pair of Avia sneakers in the flower beds, which the police photographed and cast. This was virtually the only evidence that the police had at the time. Bullets found at the scene were matched to those found at previous attacks, and the police realized a serial killer was at large. Vincent and Maxine's bodies were discovered by their son, Peter</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.132630, 33.942541
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Bill Doi",
+            "age": 66,
+            "img" : "https://s3.amazonaws.com/s3.timetoast.com/public/uploads/photos/9333365/Morre-Richard-Ramirez-O-Perseguidor-da-Noite-William-Doi.jpg",
+            "when": "1985-05-14",
+            "weapon": "pistol",
+            "how": "<p>Ramirez returned to Monterey Park and entered the home of Bill Doi, 66, and his disabled wife Lillian, 56.Surprising Doi in his bedroom, Ramirez shot him in the face with a .22 semi-automatic pistol as Doi went for his own handgun. After beating the mortally wounded man into unconsciousness, Ramirez entered Lillian's bedroom, bound her with thumbcuffs, then raped her after he had ransacked the home for valuables. Bill Doi died of his injuries while in the hospital</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.148838, 34.051354
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Mabel Bell",
+            "age": 83,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1985-05-29",
+            "weapon": "fist",
+            "how": "<p>On the night of May 29, 1985, Ramirez drove a stolen Mercedes-Benz to Monrovia, California and stopped at the house of Mabel Bell, 83, and her sister Florence Lang, 81. Finding a hammer in the kitchen, he bludgeoned and bound the invalid Lang in her bedroom, then bound and bludgeoned Bell before using an electrical cord to shock the woman. After raping Lang, he used Bell's lipstick to draw a pentagram on her thigh as well as on the walls of both bedrooms. Discovered two days later, both women were found alive but comatose; Bell later died of her injuries.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.028259, 34.017067
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Mary Cannon",
+            "age": 75,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1985-07-02",
+            "weapon": "knife",
+            "how": "<p>After quietly entering the widowed grandmother's home, he found her asleep in her bedroom. He bludgeoned her into unconsciousness with a lamp and then repeatedly stabbed her using a 10-inch butcher knife from her kitchen. She was found dead at the crime scene.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.016452, 33.853380
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Lela $ Maxon Kneiding",
+            "age": 67,
+            "img" : "https://images.findagrave.com/photos/2013/157/85443533_137065818496.jpg",
+            "when": "1985-07-20",
+            "weapon": "gun",
+            "how": "<p>Ramirez purchased a machete before driving a stolen Toyota to Glendale, California.] He chose the home of Lela Kneiding, 66, and her husband Maxon, 68.] He burst into the sleeping couple's bedroom and hacked them with the machete, then killed them with shots to the head from a .22 caliber handgun. He further mutilated their bodies with the machete before robbing the house of valuables.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.978706, 33.836687
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Chainarong Khovananth",
+            "age": 32,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1985-07-20",
+            "weapon": "gun",
+            "how": "<p>At approximately 4:15 am, he broke into the home of the Khovananth family. He shot the sleeping Chainarong Khovananth in the head with a .25 caliber handgun, killing him instantly, then repeatedly raped Somkid Khovananth, beat, and sodomized her. He bound the couple's terrified 8-year-old son before dragging Somkid around the house to reveal the location of any valuable items, which he stole. During his assault he demanded that she swear to Satan that she was not hiding any money from him</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.395534, 34.226362
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Elyas Abowath",
+            "age": 31,
+            "img" : "https://images.findagrave.com/photos/2013/160/112101055_137090096769.jpg",
+            "when": "1985-08-08",
+            "weapon": "gun",
+            "how": "<p>Ramirez drove a stolen car to Diamond Bar, California and chose the home of Sakina Abowath, 27, and her husband Elyas Abowath, 31. Sometime after 2:30 am he entered the house and went into the master bedroom. He instantly killed the sleeping Elyas with a shot to the head from a .25 caliber handgun. He handcuffed and beat Sakina while forcing her to reveal the locations of the family's jewelry, and then brutally raped and sodomized her. He repeatedly demanded that she swear on Satan that she would not scream during his assaults. When the couple's 3-year-old son entered the bedroom, Ramirez tied the child up and then continued to rape Sakina.] After Ramirez left the home, Sakina untied her son and sent him to the neighbors for help</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.816624, 33.999389
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Peter Pan",
+            "age": 66,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1985-08-18",
+            "weapon": "gun",
+            "how": "<p>He entered the home of Peter and Barbara Pan. He shot the sleeping Peter, 66, in the temple with a .25 caliber handgun</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.473668, 37.726259
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Barbara Pan",
+            "age": 62,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1985-08-18",
+            "weapon": "gun",
+            "how": "<p>He then beat and sexually assaulted Barbara, 62, before shooting her in the head and leaving her for dead. At the crime scene, Ramirez used lipstick to scrawl a pentagram and the phrase Jack the Knife on the bedroom wall</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.473702, 37.726481
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Mei Leung",
+            "age": 9,
+            "img" : "http://www.clker.com/cliparts/0/d/K/b/X/B/female-id-unknown-hi.png",
+            "when": "1984-04-10",
+            "weapon": "gun",
+            "how": "<p>He raped and beat the girl before stabbing her to death, and hanged her body from a pipe.This, Ramirez's first known killing, was not initially identified as being connected to the subsequent crime spree.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.414469, 37.784625
+          ]
+        }
+      }
+    ]
+  }

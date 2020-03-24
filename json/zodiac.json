@@ -1,0 +1,147 @@
+{
+  "name": "The Zodiac killer",
+  "center":[-122.267020, 37.969804],
+  "zoom": 8,
+  "text1" : "<p>Zodiac Killer is the pseudonym of an unidentified serial killer who operated in Northern California from at least the late 1960s to the early 1970s. The Zodiac murdered victims in Benicia, Vallejo, Napa County, and San Francisco between December 1968 and October 1969. The killer targeted four men and three women between the ages of 16 and 29, with two of the men surviving attempted murder. The Zodiac himself claimed to have killed up to 37 victims. The killer originated the name Zodiac in a series of taunting letters and cards sent to the local Bay Area press. The letters included four cryptograms (or ciphers). Of the four cryptograms sent, only one has been definitively solved</p>",
+  "text2": "<p>After the Pines card, the Zodiac remained silent for nearly three years. The Chronicle then received a letter from the Zodiac, postmarked January 29, 1974, praising The Exorcist as -the best saterical comdy - that I have ever seen. The letter included a snippet of verse from The Mikado and an unusual symbol at the bottom that has remained unexplained by researchers. Zodiac concluded the letter with a new score, Me = 37, SFPD = 0.</p>",
+  "text3": "<p>in April 2004, the SFPD marked the case inactive, citing caseload pressure and resource demands, effectively closing the case. However, they re-opened their case sometime before March 2007. The case is open in Napa County and in the city of Riverside. In May 2018, the Vallejo Police Department announced their intention to attempt to collect the Zodiac Killer's DNA from the back of stamps he used during his correspondence. The analysis, by a private laboratory, is expected to utilize an advanced new technique that is able to separate DNA from the glue present on the back of stamps. It is hoped the Zodiac Killer may be caught in a similar fashion to the Golden State Killer. In May 2018, a Vallejo police detective said that results were expected in several weeks. However as of December 2019 no results have been reported.</p>",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "David Faraday",
+          "age": "17",
+          "img" : "http://www.zodiackiller.com/images/faradaypic.gif",
+          "when": "1968-12-20",
+          "weapon": "pistol",
+          "how": "<p>David Faraday was shot once to the head and died instantly.  There was no indication of robbery or sexual molestation. While there were no witnesses, several vehicles were seen in the area just prior to local resident Stella Borges discovering the crime scene.</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+             -122.143956, 38.0949
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Betty Jensen",
+          "age": "16",
+          "img" : "http://www.zodiackiller.com/images/jensenpic.gif",
+          "when": " 1968-12-20",
+          "weapon": "pistol",
+          "how": "<p>Shot in the head. There was no indication of robbery or sexual molestation. There were no witnesses.</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.143956, 38.09489
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Mike Mageau",
+          "age": "19",
+          "img" : "http://www.zodiackiller.com/images/mageaupic.GIF",
+          "when": " 1969-06-05",
+          "weapon": "pistol",
+          "how": "<p>Mike Mageau, age 19, was shot four times. The weapon was a 9mm semi-automatic pistol. There was no indication of robbery or sexual molestation. There were no witnesses.</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.191094, 38.125989
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Darlene Ferrin",
+          "age": "22",
+          "img" : "http://www.zodiackiller.com/images/ferrinpic.jpg",
+          "when": " 1969-06-05",
+          "weapon": "pistol",
+          "how": "<p>Darlene Ferrin, age 22, was shot five times. The weapon was a 9mm semi-automatic pistol. There was no indication of robbery or sexual molestation. There were no witnesses.</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.191094, 38.125991
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Bryan Hartnell",
+            "age": "22",
+            "img" : "http://www.zodiackiller.com/images/hartnell_ap_photo.jpg",
+            "when": "1969-09-29",
+            "weapon": "knife",
+            "how": "<p>Bryan Hartnell, age 20, was stabbed six times in the back. The knife had a wooden handle and a blade approximately 10 to 12 inches long. There was no indication of robbery or sexual molestation. There were no witnesses.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.231786, 38.563417
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Cecilia Shepard",
+            "age": "20",
+            "img" : "http://www.zodiackiller.com/images/shepard_ap_photo.jpg",
+            "when": "1969-09-29",
+            "weapon": "knife",
+            "how": "<p>Cecelia Shepard, age 22, was stabbed 10 times, five in the front and five in the back. The knife had a wooden handle and a blade approximately 10 to 12 inches long. There was no indication of robbery or sexual molestation. There were no witnesses.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.231786, 38.563414
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Paul Stine",
+            "age": 29,
+            "img" : "http://www.zodiackiller.com/images/stinephone.jpg",
+            "when": "1969-10-11",
+            "weapon": "pistol",
+            "how": "<p>Cab driver Paul Stine, age 29, was shot once in the head at point-blank range. The weapon was a 9mm semi-automatic pistol, not the same 9mm used in the Ferrin murder. There were three witnesses from a house on the southeast corner of the intersection.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -122.457094, 37.788742
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Cheri Bates",
+            "age": 17,
+            "img" : "http://www.zodiackiller.com/images/batespic.jpg",
+            "when": "1966-10-30",
+            "weapon": "knife",
+            "how": "<p>A 1966 graduate of Riverside's Ramona High School, 18-year-old Cheri Jo Bates was beaten and stabbed multiple times with a short-bladed knife. Her throat was also cut. There was no evidence of robbery or sexual molestation. There were no witnesses.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -117.381111, 33.971944
+          ]
+        }
+      }
+    ]
+  }

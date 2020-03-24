@@ -1,0 +1,150 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta http-equiv="X-UA-Compatible" content="ie=edge">
+
+    <!-- FONT -->
+    <link href="https://fonts.googleapis.com/css?family=IBM+Plex+Mono:400,500,600,700&display=swap" rel="stylesheet">
+    <link href="https://fonts.googleapis.com/css?family=PT+Mono&display=swap" rel="stylesheet">
+
+    <!--CSS-->
+    <link rel='stylesheet' href='./style/global.css'>
+    <link rel='stylesheet' href='./style/home.css'>
+    <link rel='stylesheet' href='./style/overview.css'>
+    <link rel='stylesheet' href='./style/map.css'>
+    <link rel='stylesheet' href='./style/diagram.css'>
+    <link rel='stylesheet' href='./style/content.css'>
+    <!-- different screen sizes-->
+    <link rel='stylesheet' href='./style/screens.css'>
+    <!-- Mapbox-->
+    <link href='https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.css' rel='stylesheet' />
+    <!--fontawesome-->
+    <script src="https://kit.fontawesome.com/754657a458.js" crossorigin="anonymous"></script>
+
+    <title>Serial murderers</title>
+</head>
+<body>
+    <header></header>
+    <main>
+        <!--Hamburger menu-->
+        <span id='hamburger' onclick='changeFunction()'>
+            <i class=" fas fa-bars"></i>
+        </span>
+        <div id='grid'>
+            <div class='ads'></div>
+            <div id='container'>
+                <!-- Overview -->
+                <section id='overview' class='shadow'>
+                    <h1>Murderers:</h1>
+                        <div id='scroll'>
+                        <a class='murderers active scale shadow' id='btnted'>
+                            <div class='img_container'>
+                                <img src='./img/tedBoundy.jpg' alt='Ted Boundy the 
+                                serial killer'>
+                            </div>
+                            <div class='murderers_info'>
+                                <h2><strong>Name:</strong> Ted Boundy</h2>
+                                <h2><strong>Kills:</strong> 30</h2>
+                                <h2><strong>Caught:</strong> 1978</h2>
+                            </div>
+                        </a>
+                        <a class='murderers scale shadow' id='btnzodiac'>
+                            <div class='img_container'>
+                                <img src='./img/zodiac.jpg' alt='The Zodiac Killer'>
+                            </div>
+                            <div class='murderers_info'>
+                                <h2><strong>Name:</strong> Zodiac Killer</h2>
+                                <h2><strong>Kills:</strong> 8</h2>
+                                <h2><strong>Caught:</strong> Never</h2>
+                            </div>
+                        </a>
+                        <a class='murderers scale shadow' id='btnmanson'>
+                            <div class='img_container'>
+                                <img src='./img/manson.jpg' alt='Charles Manson the serial killer'>
+                            </div>
+                            <div class='murderers_info'>
+                                <h2><strong>Name:</strong> Charles Manson</h2>
+                                <h2><strong>Kills:</strong> 7</h2>
+                                <h2><strong>Caught:</strong> 1971</h2>
+                            </div>
+                        </a>
+                        <a class='murderers scale shadow' id='btnmiyazaki'>
+                            <div class='img_container'>
+                                <img src='./img/Miyazaki.jpg' alt='Tsutomu Miyazaki the 
+                                serial killer'>
+                            </div>
+                            <div class='murderers_info'>
+                                <h2><strong>Name:</strong> Tsutomu Miyazaki</h2>
+                                <h2><strong>Kills:</strong> 4</h2>
+                                <h2><strong>Caught:</strong> 1981</h2>
+                            </div>
+                        </a>
+                        <a class='murderers scale shadow' id='btnramirez'>
+                            <div class='img_container'>
+                                <img src='./img/ramirez.jpg' alt='Richard Ramirez the 
+                                serial killer'>
+                            </div>
+                            <div class='murderers_info'>
+                                <h2><strong>Name:</strong> Richard Ramirez</h2>
+                                <h2><strong>Kills:</strong> 14</h2>
+                                <h2><strong>Caught:</strong> 1985</h2>
+                            </div>
+                        </a>
+                        <a class='murderers scale shadow'>
+                            <div class='img_container'>
+                                <img src='./img/female-id-unknown-hi.png' alt='You can help'>
+                            </div>
+                            <div class='murderers_info'>
+                                <h2><strong>Name:</strong> TBA</h2>
+                                <h2><strong>Kills:</strong> TBA</h2>
+                                <h2><strong>Caught:</strong> TBA</h2>
+                            </div>
+                        </a>
+                        <a class='murderers scale shadow'>
+                            <div class='img_container'>
+                                <img src='./img/female-id-unknown-hi.png' alt='You can help'>
+                            </div>
+                            <div class='murderers_info'>
+                                <h2><strong>Name:</strong> TBA</h2>
+                                <h2><strong>Kills:</strong> TBA</h2>
+                                <h2><strong>Caught:</strong> TBA</h2>
+                            </div>
+                        </a>
+                    </div>
+                </section>
+                <!-- Content -->
+                <section id='content' class='shadow'>
+                    <div id='text1'></div>
+                    <div class='paper shadow'>
+                        <div id='map'></div>
+                    </div>
+                    <div id='list'>
+
+                    </div>
+                    <div id='text2'></div>
+                    <div class='paper shadow'>
+                        <div id='stats'></div>
+                    </div>
+                </section>
+            </div>
+            <div class='ads'></div>
+        </div>
+    </main>
+    <footer><h2>Designed and created by: Jon-Magne Aa. Jønholt</h2></footer>
+    <!-- Scripts -->
+        <!--- Mapbox --->
+        <script src='https://api.mapbox.com/mapbox-gl-js/v1.4.1/mapbox-gl.js'></script>
+        <script src='./script/map.js'></script>
+        <!-- Highcharts-->
+        <script src="https://code.highcharts.com/highcharts.js"></script>
+        <script src='./script/stats.js'></script>
+        
+        
+        <!-- Sets Active class -->
+        <script src='./script/active.js'></script> 
+        <!-- Hamburger menu -->
+        <script src='./script/hamburger.js'></script>
+</body>
+</html>

@@ -1,0 +1,61 @@
+main{
+    margin-top: 3rem;
+}
+
+#index-ow{
+    background-color: #FCE19B;
+    border-radius: 1rem;
+    width: 40%;
+    height: 90vh;
+
+
+    margin: 0 auto;
+
+    display: grid;
+    justify-content:center;
+
+    text-align: center;
+}
+
+#index-ow h1{
+    font-size: 3rem;
+    padding-top: 4rem;
+}
+
+#index-ow div{
+    height: 12rem;
+    display: grid;
+    align-content: center;
+}
+
+#index-ow button{
+    margin-top: 4rem;
+}
+
+#classified{
+    border: 10px solid darkred;
+    border-radius: 1rem;
+    color: rgb(139, 0, 0);
+    background-color: inherit;
+    font-size: 5rem;
+    font-family: 'Stardos Stencil', cursive;
+    font-weight: 700;
+    width: 25rem;
+    height: 10rem;
+
+    transform: rotate(10deg);
+
+    justify-self: center;
+
+    display: grid;
+    justify-content:center;
+    align-content: center;
+
+
+}
+
+#classified:hover{
+    cursor: pointer;
+    color: #FCE19B;
+    background-color: darkred;
+}

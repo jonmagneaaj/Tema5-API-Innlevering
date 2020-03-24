@@ -1,0 +1,132 @@
+{
+  "name": "Charles Manson",
+  "center":[-118.363343, 34.104512],
+  "zoom": 11,
+  "text1" : "<p>Charles Milles Manson (ne Maddox, November 12, 1934 – November 19, 2017) was an American criminal and cult leader. In mid-1967, he formed what became known as the Manson Family, a quasi-commune based in California. His followers committed a series of nine murders at four locations in July and August 1969. According to the Los Angeles County district attorney, Manson plotted to start a race war, though he and others disputed this motive. In 1971, he was convicted of first-degree murder and conspiracy to commit murder for the deaths of seven people. The prosecution conceded that Manson never literally ordered the murders, but they contended that his ideology constituted an overt act of conspiracy</p>",
+  "text2": "<p>Manson was an unemployed ex-convict who had spent more than half of his life in correctional institutions at the time when he began gathering his cult following. Before the murders, he was a singer-songwriter on the fringe of the Los Angeles music industry, chiefly through a chance association with Dennis Wilson of the Beach Boys. In 1968, the Beach Boys recorded Manson's song Cease to Exist, retitled Never Learn Not to Love as the B-side on one of their singles, but without a credit to Manson.</p>",
+  "text3": "<p>From the beginning of Manson's notoriety, a pop culture arose around him and he became an emblem of insanity, violence, and the macabre. Recordings were released commercially of songs written and performed by Manson, starting with Lie: The Love and Terror Cult (1970). Various musicians have covered some of his songs. Manson was originally sentenced to death, but his sentence was commuted to life with the possibility of parole after the California Supreme Court invalidated the state's death penalty statute in 1972. He served his life sentence at California State Prison, Corcoran and died at age 83 in late 2017.</p>",
+    "type": "FeatureCollection",
+    "features": [
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Sharon Tate",
+          "age": 26,
+          "img" : "https://upload.wikimedia.org/wikipedia/commons/6/6c/Sharon_Tate_Valley_of_the_Dolls_1967.jpg",
+          "when": "1969-07-08",
+          "weapon": "Knife",
+          "how": "<p>The night she died, Tate was stabbed 16 times, killer Susan Atkins’ knife penetrating her heart, lungs and liver. Five of Tate’s wounds, in and of themselves, were fatal. Her unborn son, named Paul after her father, also died, just two weeks shy of his due date.</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.432529, 34.093781
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+          "name": "Jay Sebring",
+          "age": 35,
+          "img" : "https://upload.wikimedia.org/wikipedia/en/thumb/5/58/SharonTatewithJaySebring.jpg/220px-SharonTatewithJaySebring.jpg",
+          "when": "1969-07-09",
+          "weapon": "Knife",
+          "how": "<p>Sebring bled to death on the living room floor at 10050 Cielo Drive. He was stabbed seven times and shot once, and according to his autopsy, at least three of the stab wounds, as well as the gunshot wound, would have been fatal on their own.</p>"
+        },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.432364, 34.094252
+
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Abigail Folger",
+            "age": 25,
+            "img" : "https://allthatsinteresting.com/wordpress/wp-content/uploads/2018/12/abigail-folger.jpg",
+            "when": "1969-07-08",
+            "weapon": "Knife",
+            "how": "<p>Folger died of 28 stab wounds to her face and body. It was two days before her 26th birthday.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.432659, 34.094061
+
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Wojciech Frykowski",
+            "age": 32,
+            "img" : "https://roxstar777.files.wordpress.com/2019/01/wojciech-frykowski-7.jpg",
+            "when": "1969-07-08",
+            "weapon": "Blunt weapon",
+            "how": "<p>By the time of their deaths, Frykowski’s and Folger’s casual drug use had become more frequent and both had drugs in their systems when they died.Frykowski fought his killers hard. He was shot twice, struck over the head with a blunt object 13 times and stabbed 51 times.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.432616, 34.093563
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Steven Parent",
+            "age": 18,
+            "img" : "https://www.charlesmanson.com/wp-content/uploads/2018/07/steven-parent.jpg",
+            "when": "1969-07-08",
+            "weapon": "Knife",
+            "how": "<p>It was Parent’s love of electronics that brought him to Cielo Drive, where he went around 11:45 p.m. Aug. 8 to see if William Garretson, the caretaker of the home, was interested in buying a clock radio from him.Parent had a defensive slash wound on his palm, which severed tendons and sliced the watch off his wrist. He was also shot four times.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.431870, 34.094256
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Leno LaBianca",
+            "age": 44,
+            "img" : "https://m.media-amazon.com/images/M/MV5BYWMzOTUzNzQtZjkzYy00MTA4LTkwMGYtMDQ0NWJkNGQ1NzRmXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_SY1000_CR0,0,1063,1000_AL_.jpg",
+            "when": "1969-07-10",
+            "weapon": "Knife",
+            "how": "<p>Leno died of multiple stab wounds days after his 44th birthday. His autopsy showed he had been stabbed 12 times with a knife and punctured 14 times by a double-tined carving fork.A kitchen knife was left jutting from his throat and the word “WAR” had been cut into the flesh of his stomach, from which the carving fork protruded.Six of his 26 wounds would have been fatal on their own.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.273141, 34.113808
+          ]
+        }
+      },
+      {
+        "type": "Feature",
+        "properties": {
+            "name": "Rosemary LaBianca",
+            "age": 38,
+            "img" : "https://m.media-amazon.com/images/M/MV5BNDM5NmIwNGMtY2YzZS00NjY3LWE4MTktMGFlYjFkZjhiNDUwXkEyXkFqcGdeQXVyNjUxMjc1OTM@._V1_UY317_CR56,0,214,317_AL_.jpg",
+            "when": "1969-07-10",
+            "weapon": "Knife",
+            "how": "<p>Rosemary was also particularly unnerved by the Tate murders. The proprietor of a newsstand who saw the couple in the early morning hours of Aug. 10, when they stopped by for a paper, told authorities the couple talked about the killings.Hours later, Rosemary died of multiple stab wounds. She was stabbed 41 times, many of those wounds inflicted after she was already dead.Six of the stab wounds were fatal in and of themselves.</p>"
+            },
+        "geometry": {
+          "type": "Point",
+          "coordinates": [
+            -118.273069, 34.113641
+          ]
+        }
+      }
+    ]
+  }

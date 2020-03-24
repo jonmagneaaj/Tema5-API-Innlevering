@@ -1,0 +1,52 @@
+@media only screen and (max-width: 1200px) {
+
+    #grid{
+        grid-template-columns: 5% auto 5%;
+    }
+    #hamburger{
+        display: block;
+        animation-name: fade-in;
+        animation-duration: 1s;
+    }
+
+    #hamburger .ham-line{
+        display: block;
+    }
+
+    #overview{
+        top: 0;
+        left: 0;
+
+        position: fixed;
+        height: 100%;
+        width: 30%;
+        z-index: 50;
+
+        box-shadow: 11px 15px 34px -11px rgba(0,0,0,0.73);
+
+        animation-name: fade-in;
+        animation-duration: 1s;
+    }
+
+    @keyframes fade-in{
+        from{
+            left: -20rem;
+        }
+    }
+
+    #container{
+        grid-template-columns: none;
+    }
+
+    #index-ow{
+        width: 90%;
+    }
+}
+
+@media only screen and (max-width: 700px) {
+
+    #overview{
+        width: 100%;
+    }
+
+}
